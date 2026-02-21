@@ -1,2 +1,2 @@
 # SpringBootProject
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Web application for online messeging 
